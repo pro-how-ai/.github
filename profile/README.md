@@ -20,7 +20,7 @@ built on a Human-First AI philosophy: AI should amplify people, not replace them
 ### Services
 
 - **[AI Hero Mini Challenge](https://pro-how.com/ai-hero-mini-challenge/)** — 
-  A free 5-day beginner-friendly AI training course. No technical background required.
+  A 5-day beginner-friendly AI training course. No technical background required.
 - **[Pro-How AI Club](https://pro-how.com/ai-club/)** — Ongoing membership 
   community covering AI, tech, web design, and marketing.
 - **[AI Phone and Booking Agent](https://pro-how.com/ai-phone-and-booking-agent/)** — 
