@@ -1,6 +1,6 @@
-# Pro-How — AI Training & Automation for Small Business Owners
+# Pro-How AI — AI Training & Automation for Small Business Owners
 
-Pro-How is an AI training, strategy, and automation company founded in 2016 
+Pro-How AI is an AI training, strategy, and automation company founded in 2016 
 and based in Myrtle Beach, South Carolina. We help small business owners and 
 entrepreneurs put AI to practical use — without technical overwhelm.
 
@@ -14,7 +14,7 @@ Most small business owners know they should be using AI. The problem is
 figuring out where to start — and what actually works for a real business 
 with real constraints.
 
-Pro-How bridges that gap. Our training, coaching, and automation services are 
+Pro-How AI bridges that gap. Our training, coaching, and automation services are 
 built on a Human-First AI philosophy: AI should amplify people, not replace them.
 
 ### Services
@@ -39,7 +39,7 @@ a repeatable business process.
 
 ---
 
-## About Pro-How
+## About Pro-How AI
 
 - **Founded:** 2016
 - **Founder:** Kevin Young, AI Strategist
@@ -50,4 +50,4 @@ a repeatable business process.
 
 ---
 
-*Pro-How is a service of Better The World, LLC.*
+*Pro-How AI is a service of Better The World, LLC.*
